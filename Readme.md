@@ -48,7 +48,7 @@ python train.py
 ### To evaluate the model :
 
 ```bash
-python sevaluate.py
+python evaluate.py
 ```
 
 ### To make predictions :
