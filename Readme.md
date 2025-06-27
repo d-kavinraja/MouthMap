@@ -5,6 +5,7 @@
 </div>
 
 ## Exportred Model is Now Avaiable(Soon the HIGH Accuracy model will be Available : https://www.kaggle.com/models/santhankarnala/40th-epoch-model-checkpoint/Keras/default/1
+## Our app is available! The accuracy may not be perfect when uploading your own videos, but feel free to try it out and have fun. You can also select from the available sample videos to see the results.
 ## Overview
 
 MouthMap is a deep learning-based project designed to interpret lip movements from video data and generate corresponding text sentences. Leveraging convolutional neural networks (CNNs), bidirectional LSTMs, and Connectionist Temporal Classification (CTC) loss, this project processes video frames of lip movements to predict spoken phrases.
