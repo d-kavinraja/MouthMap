@@ -19,7 +19,7 @@ MouthMap is a deep learning-based project designed to interpret lip movements fr
 
 - **Video Preprocessing**: Converts video frames to grayscale and normalizes them for model input
 - **Lip Reading Model**: 
-  - Uses 3D CNN and Bidirectional LSTM architecture
+  - Uses 3D CNN and Bidirectional LSTM architecture(Customized)
   - Extracts spatial-temporal features from lip movements
 - **CTC Loss Implementation**: Sequence-to-sequence prediction without explicit alignment
 - **Efficient Data Pipeline**: Handles video and alignment data using TensorFlow's tf.data API
